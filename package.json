@@ -1,0 +1,12 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "gulp":"latest",
+    "gulp-zip":"latest",
+    "del":"latest",
+    "gulp-install":"latest",
+    "run-sequence":"latest",
+    "node-aws-lambda":"latest"
+  }
+}
